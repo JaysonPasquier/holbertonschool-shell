@@ -1,2 +1,1 @@
 #!/bin/bash
-while read l; do ((c++%2)) || echo $l; done
